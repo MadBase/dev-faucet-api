@@ -31,5 +31,5 @@ utils
 
 The api supports calls to the following endpoint:
 
-GET `/` - Status 
-GET `/faucet/{address}` - Fund {address}, 0x prefix optional
+- GET `/` - Status
+- GET `/faucet/{address}` - Fund {address}, 0x prefix optional
